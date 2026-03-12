@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773318898,
+    "data": "[16:34:28][c2.rs - my_keylogger (Workspace) - Visual Studio Code] t\n[16:34:30][c2.rs - my_keylogger (Workspace) - Visual Studio Code] -\n[16:34:41][c2.rs - my_keylogger (Workspace) - Visual Studio Code] \r\n",
+    "keystrokes": "t-",
+    "window": "c2.rs - my_keylogger (Workspace) - Visual Studio Code",
+    "sequence": 9
+  }
+}
