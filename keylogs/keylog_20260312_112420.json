@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773314660,
+    "data": "[15:24:16][C:\\WINDOWS\\System32\\cmd.exe] \r\n[15:24:19][C:\\WINDOWS\\System32\\cmd.exe] \b\n[15:24:20][C:\\WINDOWS\\System32\\cmd.exe] \b\n[15:24:20][C:\\WINDOWS\\System32\\cmd.exe] \b\n[15:24:20][C:\\WINDOWS\\System32\\cmd.exe] \b\n[15:24:20][C:\\WINDOWS\\System32\\cmd.exe] \b\n[15:24:20][C:\\WINDOWS\\System32\\cmd.exe] \b\n[15:24:20][C:\\WINDOWS\\System32\\cmd.exe] \b\n[15:24:20][C:\\WINDOWS\\System32\\cmd.exe] \b\n[15:24:20][C:\\WINDOWS\\System32\\cmd.exe] \b\n[15:24:20][C:\\WINDOWS\\System32\\cmd.exe] \b\n[15:24:20][C:\\WINDOWS\\System32\\cmd.exe] \b\n",
+    "keystrokes": "\b\b\b\b\b\b\b\b\b\b\b",
+    "window": "C:\\WINDOWS\\System32\\cmd.exe",
+    "sequence": 50
+  }
+}
