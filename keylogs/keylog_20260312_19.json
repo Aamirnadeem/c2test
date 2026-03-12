@@ -1,8 +1,10 @@
 {
   "KeylogData": {
     "implant_id": "implant_01",
-    "timestamp": 1773304845,
-    "data": "[12:40:33][c2test/keylogs/keylog_20260312_7.json at main · Aamirnadeem/c2test - Google Chrome] c\n[12:40:44][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] c\n[12:40:44][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] a\n[12:40:45][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] n\n[12:40:45][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome]  \n[12:40:45][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] w\n",
+    "timestamp": 1773306961,
+    "data": "[13:16:00][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome]  \n[13:16:00][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] c\n[13:16:00][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] o\n[13:16:00][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] m\n[13:16:01][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] p\n[13:16:01][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] l\n",
+    "keystrokes": "",
+    "window": "Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome",
     "sequence": 19
   }
 }
