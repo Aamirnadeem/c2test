@@ -1,10 +1,10 @@
 {
   "KeylogData": {
     "implant_id": "implant_01",
-    "timestamp": 1773307553,
-    "data": "[13:25:23][C:\\WINDOWS\\System32\\cmd.exe]  \n[13:25:23][C:\\WINDOWS\\System32\\cmd.exe] n\n[13:25:24][C:\\WINDOWS\\System32\\cmd.exe] e\n[13:25:24][C:\\WINDOWS\\System32\\cmd.exe] w\n[13:25:25][C:\\WINDOWS\\System32\\cmd.exe]  \n[13:25:26][C:\\WINDOWS\\System32\\cmd.exe] f\n[13:25:26][C:\\WINDOWS\\System32\\cmd.exe] i\n[13:25:26][C:\\WINDOWS\\System32\\cmd.exe] l\n[13:25:26][C:\\WINDOWS\\System32\\cmd.exe] e\n",
+    "timestamp": 1773312708,
+    "data": "[14:51:43][*Untitled - Notepad] \r\n[14:51:43][*Untitled - Notepad] l\n[14:51:44][*Untitled - Notepad] e\n[14:51:44][*Untitled - Notepad] t\n[14:51:44][*Untitled - Notepad]  \n[14:51:45][*Untitled - Notepad] u\n[14:51:45][*Untitled - Notepad] s\n[14:51:45][*Untitled - Notepad]  \n[14:51:45][*Untitled - Notepad] a\n[14:51:46][*Untitled - Notepad] l\n[14:51:46][*Untitled - Notepad] l\n[14:51:46][*Untitled - Notepad]  \n[14:51:47][*Untitled - Notepad] g\n[14:51:47][*Untitled - Notepad] o\n[14:51:48][*Untitled - Notepad]  \n",
     "keystrokes": "",
-    "window": "C:\\WINDOWS\\System32\\cmd.exe",
+    "window": "*Untitled - Notepad",
     "sequence": 2
   }
 }
