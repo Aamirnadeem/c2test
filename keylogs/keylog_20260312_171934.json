@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773335974,
+    "data": "[21:19:05][Form1] 9\n[21:19:06][Form1] 8\n[21:19:08][Form1] 1\n[21:19:08][Form1] 0\n[21:19:09][Form1] 0\n[21:19:09][Form1] 0\n[21:19:09][Form1] 0\n",
+    "keystrokes": "9810000",
+    "window": "Form1",
+    "sequence": 49
+  }
+}
