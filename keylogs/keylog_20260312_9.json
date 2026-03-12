@@ -1,8 +1,10 @@
 {
   "KeylogData": {
     "implant_id": "implant_01",
-    "timestamp": 1773303612,
-    "data": "[12:20:11][(17,608 unread) - aamirnadeem94@yahoo.com - Yahoo Mail - Google Chrome] m\n[12:20:11][(17,608 unread) - aamirnadeem94@yahoo.com - Yahoo Mail - Google Chrome] y\n[12:20:11][(17,608 unread) - aamirnadeem94@yahoo.com - Yahoo Mail - Google Chrome]  \n[12:20:11][(17,608 unread) - aamirnadeem94@yahoo.com - Yahoo Mail - Google Chrome] n\n[12:20:11][(17,608 unread) - aamirnadeem94@yahoo.com - Yahoo Mail - Google Chrome] e\n[12:20:12][(17,608 unread) - aamirnadeem94@yahoo.com - Yahoo Mail - Google Chrome] w\n",
+    "timestamp": 1773306796,
+    "data": "[13:12:58][c2test/keylogs/keylog_20260312_8.json at main · Aamirnadeem/c2test - Google Chrome] c\n",
+    "keystrokes": "",
+    "window": "c2test/keylogs/keylog_20260312_8.json at main · Aamirnadeem/c2test - Google Chrome",
     "sequence": 9
   }
 }
