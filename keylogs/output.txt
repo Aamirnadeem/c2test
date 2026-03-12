@@ -1,3 +1,0 @@
-hostname: DESKTOP-7EEK7E2
-username: abc
-timestamp: 1773270132
