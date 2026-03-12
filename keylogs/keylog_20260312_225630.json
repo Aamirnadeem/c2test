@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773356190,
+    "data": "[02:56:22][Windows PowerShell] \r\n[02:56:29][Windows PowerShell] \b\n[02:56:29][Windows PowerShell] \b\n[02:56:29][Windows PowerShell] \b\n[02:56:29][Windows PowerShell] \b\n[02:56:29][Windows PowerShell] \b\n[02:56:29][Windows PowerShell] \b\n[02:56:29][Windows PowerShell] \b\n[02:56:30][Windows PowerShell] \b\n[02:56:30][Windows PowerShell] \b\n[02:56:30][Windows PowerShell] \b\n[02:56:30][Windows PowerShell] \b\n[02:56:30][Windows PowerShell] \b\n[02:56:30][Windows PowerShell] \b\n[02:56:30][Windows PowerShell] \b\n[02:56:30][Windows PowerShell] \b\n",
+    "keystrokes": " ⌫⌫⌫⌫⌫⌫⌫⌫⌫⌫⌫⌫⌫⌫⌫",
+    "window": "Windows PowerShell",
+    "sequence": 1
+  }
+}
