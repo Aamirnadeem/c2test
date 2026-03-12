@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773318455,
+    "data": "[16:27:14][Windows PowerShell] \r\n[16:27:26][*Untitled - Notepad] l\n[16:27:26][*Untitled - Notepad] e\n[16:27:26][*Untitled - Notepad] t\n[16:27:27][*Untitled - Notepad]  \n[16:27:27][*Untitled - Notepad] u\n[16:27:28][*Untitled - Notepad] s\n[16:27:28][*Untitled - Notepad]  \n[16:27:29][*Untitled - Notepad] t\n[16:27:29][*Untitled - Notepad] e\n[16:27:29][*Untitled - Notepad] s\n[16:27:32][*Untitled - Notepad] f\n[16:27:33][*Untitled - Notepad] \b\n[16:27:34][*Untitled - Notepad] t\n[16:27:35][*Untitled - Notepad]  \n",
+    "keystrokes": "letustesf\bt",
+    "window": "Windows PowerShell",
+    "sequence": 1
+  }
+}
