@@ -1,8 +1,8 @@
 {
   "KeylogData": {
     "implant_id": "implant_01",
-    "timestamp": 1773312648,
-    "data": "[14:50:37][Windows PowerShell] \r\n[14:50:41][Windows PowerShell] \r\n[14:50:45][Windows PowerShell] \r\n[14:50:48][Windows PowerShell] \r\n",
+    "timestamp": 1773312685,
+    "data": "[14:51:04][Windows PowerShell] \r\n",
     "keystrokes": "",
     "window": "Windows PowerShell",
     "sequence": 1
