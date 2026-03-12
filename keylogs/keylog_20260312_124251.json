@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773319371,
+    "data": "[16:42:26][c2.rs - my_keylogger (Workspace) - Visual Studio Code] f\n[16:42:28][c2.rs - my_keylogger (Workspace) - Visual Studio Code] 3\n[16:42:28][c2.rs - my_keylogger (Workspace) - Visual Studio Code] 0\n[16:42:42][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] f\n",
+    "keystrokes": "f30f",
+    "window": "c2.rs - my_keylogger (Workspace) - Visual Studio Code",
+    "sequence": 17
+  }
+}
