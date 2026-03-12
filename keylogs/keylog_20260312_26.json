@@ -1,8 +1,10 @@
 {
   "KeylogData": {
     "implant_id": "implant_01",
-    "timestamp": 1773304876,
-    "data": "[12:41:15][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome]  \n[12:41:15][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] d\n[12:41:16][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] i\n[12:41:16][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] f\n[12:41:16][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] f\n[12:41:16][Rust Pseudocode for Cross Platform Implant - DeepSeek - Google Chrome] i\n",
+    "timestamp": 1773307098,
+    "data": "[13:18:14][c2.rs - my_keylogger (Workspace) - Visual Studio Code] a\n",
+    "keystrokes": "",
+    "window": "c2.rs - my_keylogger (Workspace) - Visual Studio Code",
     "sequence": 26
   }
 }
