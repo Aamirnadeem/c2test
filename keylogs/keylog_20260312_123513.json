@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773318913,
+    "data": "[16:35:01][c2.rs - my_keylogger (Workspace) - Visual Studio Code] s\n[16:35:13][Windows PowerShell] \r\n",
+    "keystrokes": "s",
+    "window": "c2.rs - my_keylogger (Workspace) - Visual Studio Code",
+    "sequence": 10
+  }
+}
