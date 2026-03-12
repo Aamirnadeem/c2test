@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773356684,
+    "data": "[03:04:40][*Untitled - Notepad] e\n[03:04:40][*Untitled - Notepad]  \n[03:04:40][*Untitled - Notepad] t\n[03:04:40][*Untitled - Notepad] o\n[03:04:41][*Untitled - Notepad]  \n[03:04:41][*Untitled - Notepad] t\n[03:04:41][*Untitled - Notepad] e\n[03:04:42][*Untitled - Notepad] s\n[03:04:42][*Untitled - Notepad] t\n[03:04:42][*Untitled - Notepad]  \n[03:04:42][*Untitled - Notepad] t\n[03:04:42][*Untitled - Notepad] h\n[03:04:42][*Untitled - Notepad] e\n[03:04:43][*Untitled - Notepad] \b\n[03:04:44][*Untitled - Notepad] e\n",
+    "keystrokes": "e to test the⌫e",
+    "window": "*Untitled - Notepad",
+    "sequence": 2
+  }
+}
