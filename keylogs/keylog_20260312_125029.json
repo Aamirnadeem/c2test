@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773319829,
+    "data": "[16:50:28][c2test/keylogs/keylog_20260312_17.json at main · Aamirnadeem/c2test - Google Chrome] f\n[16:50:28][c2test/keylogs/keylog_20260312_17.json at main · Aamirnadeem/c2test - Google Chrome] i\n[16:50:28][c2test/keylogs/keylog_20260312_17.json at main · Aamirnadeem/c2test - Google Chrome] n\n[16:50:29][c2test/keylogs/keylog_20260312_17.json at main · Aamirnadeem/c2test - Google Chrome] e\n[16:50:29][c2test/keylogs/keylog_20260312_17.json at main · Aamirnadeem/c2test - Google Chrome]  \n[16:50:29][c2test/keylogs/keylog_20260312_17.json at main · Aamirnadeem/c2test - Google Chrome] i\n",
+    "keystrokes": "fine i",
+    "window": "c2test/keylogs/keylog_20260312_17.json at main · Aamirnadeem/c2test - Google Chrome",
+    "sequence": 36
+  }
+}
