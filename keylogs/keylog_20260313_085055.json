@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773391855,
+    "data": "[12:50:35][frame_diff_hash_algo_8jul25] b\n[12:50:35][frame_diff_hash_algo_8jul25] a\n[12:50:35][frame_diff_hash_algo_8jul25] c\n[12:50:36][frame_diff_hash_algo_8jul25] k\n[12:50:36][frame_diff_hash_algo_8jul25] u\n[12:50:36][frame_diff_hash_algo_8jul25] p\n[12:50:40][frame_diff_hash_algo_8jul25] -\n[12:50:42][frame_diff_hash_algo_8jul25] 1\n[12:50:43][frame_diff_hash_algo_8jul25] 3\n[12:50:44][frame_diff_hash_algo_8jul25] m\n[12:50:45][frame_diff_hash_algo_8jul25] a\n[12:50:45][frame_diff_hash_algo_8jul25] r\n[12:50:46][frame_diff_hash_algo_8jul25] 0\n[12:50:46][frame_diff_hash_algo_8jul25] 2\n[12:50:47][frame_diff_hash_algo_8jul25] 6\n[12:50:48][frame_diff_hash_algo_8jul25] \r\n",
+    "keystrokes": "backup-13mar026 ",
+    "window": "frame_diff_hash_algo_8jul25",
+    "sequence": 54
+  }
+}
