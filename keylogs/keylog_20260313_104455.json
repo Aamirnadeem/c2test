@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773398695,
+    "data": "[14:44:37][MqttAppBF - Microsoft Visual Studio] l\n[14:44:37][MqttAppBF - Microsoft Visual Studio] a\n[14:44:38][MqttAppBF - Microsoft Visual Studio] b\n[14:44:38][MqttAppBF - Microsoft Visual Studio] e\n[14:44:38][MqttAppBF - Microsoft Visual Studio] l\n[14:44:40][MqttAppBF - Microsoft Visual Studio] 1\n[14:44:41][MqttAppBF - Microsoft Visual Studio] .\n[14:44:42][MqttAppBF - Microsoft Visual Studio] c\n",
+    "keystrokes": "label1.c",
+    "window": "MqttAppBF - Microsoft Visual Studio",
+    "sequence": 96
+  }
+}
