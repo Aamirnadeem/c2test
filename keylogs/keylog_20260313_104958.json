@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773398998,
+    "data": "[14:49:11][MqttAppBF - Microsoft Visual Studio] i\n[14:49:11][MqttAppBF - Microsoft Visual Studio] f\n[14:49:11][MqttAppBF - Microsoft Visual Studio]  \n[14:49:13][MqttAppBF - Microsoft Visual Studio] c\n[14:49:13][MqttAppBF - Microsoft Visual Studio] l\n[14:49:13][MqttAppBF - Microsoft Visual Studio] i\n[14:49:17][MqttAppBF - Microsoft Visual Studio] \b\n[14:49:18][MqttAppBF - Microsoft Visual Studio] i\n[14:49:18][MqttAppBF - Microsoft Visual Studio] e\n[14:49:18][MqttAppBF - Microsoft Visual Studio] n\n[14:49:18][MqttAppBF - Microsoft Visual Studio] t\n[14:49:20][MqttAppBF - Microsoft Visual Studio] .\n[14:49:22][MqttAppBF - Microsoft Visual Studio] c\n[14:49:22][MqttAppBF - Microsoft Visual Studio] o\n[14:49:25][MqttAppBF - Microsoft Visual Studio] n\n[14:49:26][MqttAppBF - Microsoft Visual Studio] n\n[14:49:31][MqttAppBF - Microsoft Visual Studio] e\n[14:49:32][MqttAppBF - Microsoft Visual Studio] c\n[14:49:32][MqttAppBF - Microsoft Visual Studio] t\n[14:49:33][MqttAppBF - Microsoft Visual Studio] e\n[14:49:34][MqttAppBF - Microsoft Visual Studio] \t\n[14:49:36][MqttAppBF - Microsoft Visual Studio]  \n[14:49:37][MqttAppBF - Microsoft Visual Studio] =\n[14:49:37][MqttAppBF - Microsoft Visual Studio] =\n[14:49:37][MqttAppBF - Microsoft Visual Studio]  \n[14:49:39][MqttAppBF - Microsoft Visual Studio] t\n[14:49:39][MqttAppBF - Microsoft Visual Studio] r\n[14:49:39][MqttAppBF - Microsoft Visual Studio] u\n[14:49:39][MqttAppBF - Microsoft Visual Studio] e\n[14:49:40][MqttAppBF - Microsoft Visual Studio]  \n[14:49:42][MqttAppBF - Microsoft Visual Studio] \r\n",
+    "keystrokes": "if cli⌫ient.connecte  == true  ",
+    "window": "MqttAppBF - Microsoft Visual Studio",
+    "sequence": 100
+  }
+}
