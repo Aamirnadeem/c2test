@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773401857,
+    "data": "[15:36:39][MqttAppBF - Microsoft Visual Studio] c\n[15:36:45][Claude - Google Chrome] i\n[15:36:45][Claude - Google Chrome] f\n[15:36:45][Claude - Google Chrome]  \n[15:36:47][Claude - Google Chrome] \b\n[15:36:47][Claude - Google Chrome] \b\n[15:36:47][Claude - Google Chrome] \b\n[15:36:49][Claude - Google Chrome] i\n[15:36:49][Claude - Google Chrome]  \n[15:36:49][Claude - Google Chrome] w\n[15:36:49][Claude - Google Chrome] a\n[15:36:49][Claude - Google Chrome] n\n[15:36:50][Claude - Google Chrome] t\n[15:36:50][Claude - Google Chrome]  \n[15:36:50][Claude - Google Chrome] t\n[15:36:50][Claude - Google Chrome] o\n[15:36:50][Claude - Google Chrome]  \n",
+    "keystrokes": "cif ⌫⌫⌫i want to ",
+    "window": "MqttAppBF - Microsoft Visual Studio",
+    "sequence": 111
+  }
+}
