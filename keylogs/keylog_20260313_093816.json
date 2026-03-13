@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773394696,
+    "data": "[13:38:00][New Tab - Google Chrome] d\n[13:38:01][New Tab - Google Chrome] \b\n[13:38:01][New Tab - Google Chrome] g\n[13:38:02][New Tab - Google Chrome] \b\n[13:38:02][New Tab - Google Chrome] \b\n[13:38:02][New Tab - Google Chrome] g\n[13:38:03][New Tab - Google Chrome] \r\n[13:38:07][Grok - Google Chrome] g\n[13:38:07][Grok - Google Chrome] i\n[13:38:07][Grok - Google Chrome] t\n[13:38:08][Grok - Google Chrome] \r\n",
+    "keystrokes": "d⌫g⌫⌫g git ",
+    "window": "New Tab - Google Chrome",
+    "sequence": 68
+  }
+}
