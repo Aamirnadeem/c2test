@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773397922,
+    "data": "[14:31:23][Claude - Google Chrome] c\n[14:31:34][MqttAppBF - Microsoft Visual Studio] \r\n[14:31:34][MqttAppBF - Microsoft Visual Studio] \r\n[14:31:34][MqttAppBF - Microsoft Visual Studio] \r\n",
+    "keystrokes": "c   ",
+    "window": "Claude - Google Chrome",
+    "sequence": 88
+  }
+}
