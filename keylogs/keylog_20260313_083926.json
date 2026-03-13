@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773391166,
+    "data": "[12:38:26][Ahln code package detection - Claude - Google Chrome] \b\n[12:38:26][Ahln code package detection - Claude - Google Chrome] \b\n[12:39:00][frame_diff_hash_algo_8jul25] c\n[12:39:03][Search] v\n[12:39:04][Search] s\n[12:39:07][Search] \r\n[12:39:24][Open Folder] \r\n",
+    "keystrokes": "⌫⌫cvs  ",
+    "window": "Ahln code package detection - Claude - Google Chrome",
+    "sequence": 48
+  }
+}
