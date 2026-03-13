@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773400152,
+    "data": "[15:08:33][frame_diff_hash_algo_8jul25.ino - frame_diff_hash_algo_8jul25 - Visual Studio Code] s\n[15:08:40][jpeg_circular_buf.cpp - frame_diff_hash_algo_8jul25 - Visual Studio Code] s\n[15:08:46][mog_motion.cpp - frame_diff_hash_algo_8jul25 - Visual Studio Code] s\n",
+    "keystrokes": "sss",
+    "window": "frame_diff_hash_algo_8jul25.ino - frame_diff_hash_algo_8jul25 - Visual Studio Code",
+    "sequence": 105
+  }
+}
