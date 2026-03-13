@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773400457,
+    "data": "[15:13:17][frame_diff_hash_algo_8jul25 | Arduino IDE 2.3.6] f\n[15:13:19][frame_diff_hash_algo_8jul25 | Arduino IDE 2.3.6] c\n[15:13:19][frame_diff_hash_algo_8jul25 | Arduino IDE 2.3.6] o\n[15:13:19][frame_diff_hash_algo_8jul25 | Arduino IDE 2.3.6] n\n[15:13:19][frame_diff_hash_algo_8jul25 | Arduino IDE 2.3.6] n\n[15:13:20][frame_diff_hash_algo_8jul25 | Arduino IDE 2.3.6] e\n",
+    "keystrokes": "fconne",
+    "window": "frame_diff_hash_algo_8jul25 | Arduino IDE 2.3.6",
+    "sequence": 106
+  }
+}
