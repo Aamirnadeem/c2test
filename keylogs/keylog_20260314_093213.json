@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773480733,
+    "data": "[13:31:22][Add a folder to this session] c\n[13:31:22][Add a folder to this session] l\n[13:31:22][Add a folder to this session] a\n[13:31:23][Add a folder to this session] u\n[13:31:23][Add a folder to this session] s\n[13:31:23][Add a folder to this session] \b\n[13:31:24][Add a folder to this session] d\n[13:31:24][Add a folder to this session] e\n[13:32:04][Search] c\n[13:32:04][Search] l\n[13:32:05][Search] a\n[13:32:06][Search] \r\n[13:32:11][Search] c\n[13:32:11][Search] l\n[13:32:11][Search] a\n[13:32:12][Search] u\n",
+    "keystrokes": "claus⌫decla clau",
+    "window": "Add a folder to this session",
+    "sequence": 146
+  }
+}
