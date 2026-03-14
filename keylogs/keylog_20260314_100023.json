@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773482423,
+    "data": "[13:59:55][Claude - Google Chrome] w\n[13:59:55][Claude - Google Chrome] r\n[13:59:55][Claude - Google Chrome] i\n[13:59:55][Claude - Google Chrome] t\n[13:59:56][Claude - Google Chrome] e\n[13:59:56][Claude - Google Chrome]  \n[13:59:56][Claude - Google Chrome] a\n[13:59:56][Claude - Google Chrome]  \n[14:00:00][Claude - Google Chrome] e\n[14:00:00][Claude - Google Chrome] s\n[14:00:00][Claude - Google Chrome] p\n[14:00:02][Claude - Google Chrome] 3\n[14:00:02][Claude - Google Chrome] 2\n[14:00:04][Claude - Google Chrome] s\n[14:00:04][Claude - Google Chrome] 3\n[14:00:05][Claude - Google Chrome]  \n[14:00:11][Claude - Google Chrome] c\n[14:00:11][Claude - Google Chrome] o\n[14:00:11][Claude - Google Chrome] d\n[14:00:11][Claude - Google Chrome] e\n[14:00:12][Claude - Google Chrome] r\n[14:00:12][Claude - Google Chrome] \b\n[14:00:13][Claude - Google Chrome]  \n[14:00:14][Claude - Google Chrome] t\n[14:00:14][Claude - Google Chrome] o\n[14:00:14][Claude - Google Chrome]  \n[14:00:15][Claude - Google Chrome] t\n[14:00:15][Claude - Google Chrome] e\n[14:00:15][Claude - Google Chrome] s\n[14:00:16][Claude - Google Chrome] t\n[14:00:16][Claude - Google Chrome]  \n[14:00:20][Claude - Google Chrome] s\n",
+    "keystrokes": "write a esp32s3 coder⌫ to test s",
+    "window": "Claude - Google Chrome",
+    "sequence": 153
+  }
+}
