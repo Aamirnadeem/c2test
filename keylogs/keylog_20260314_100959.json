@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773482999,
+    "data": "[14:09:06][mqtt_minimal_test | Arduino IDE 2.3.6] e\n[14:09:07][mqtt_minimal_test | Arduino IDE 2.3.6] s\n[14:09:07][mqtt_minimal_test | Arduino IDE 2.3.6] p\n[14:09:08][mqtt_minimal_test | Arduino IDE 2.3.6] 3\n[14:09:08][mqtt_minimal_test | Arduino IDE 2.3.6] 2\n[14:09:12][mqtt_minimal_test | Arduino IDE 2.3.6] s\n[14:09:14][mqtt_minimal_test | Arduino IDE 2.3.6] \b\n[14:09:15][mqtt_minimal_test | Arduino IDE 2.3.6] -\n[14:09:15][mqtt_minimal_test | Arduino IDE 2.3.6] s\n[14:09:16][mqtt_minimal_test | Arduino IDE 2.3.6] 3\n[14:09:18][mqtt_minimal_test | Arduino IDE 2.3.6] d\n[14:09:19][mqtt_minimal_test | Arduino IDE 2.3.6] e\n[14:09:20][mqtt_minimal_test | Arduino IDE 2.3.6] \b\n[14:09:20][mqtt_minimal_test | Arduino IDE 2.3.6] \b\n",
+    "keystrokes": "esp32s⌫-s3de⌫⌫",
+    "window": "mqtt_minimal_test | Arduino IDE 2.3.6",
+    "sequence": 162
+  }
+}
