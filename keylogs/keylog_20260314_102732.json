@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773484052,
+    "data": "[14:27:25][test_camera_mqtt.ino] x\n",
+    "keystrokes": "x",
+    "window": "test_camera_mqtt.ino",
+    "sequence": 177
+  }
+}
