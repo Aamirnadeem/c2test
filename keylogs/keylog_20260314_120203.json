@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773489723,
+    "data": "[16:01:33][New Tab - Google Chrome] c\n[16:01:33][New Tab - Google Chrome] l\n[16:01:33][New Tab - Google Chrome] a\n[16:01:34][New Tab - Google Chrome] \r\n[16:01:39][Claude - Google Chrome] \r\n[16:01:50][ESP32S3 WiFi and MQTT troubleshooting - Claude - Google Chrome] \r\n",
+    "keystrokes": "cla   ",
+    "window": "New Tab - Google Chrome",
+    "sequence": 188
+  }
+}
