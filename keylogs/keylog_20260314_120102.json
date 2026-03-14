@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773489662,
+    "data": "[16:00:59][test_camera_mqtt | Arduino IDE 2.3.6] c\n[16:01:01][test_camera_mqtt | Arduino IDE 2.3.6] c\n",
+    "keystrokes": "cc",
+    "window": "test_camera_mqtt | Arduino IDE 2.3.6",
+    "sequence": 187
+  }
+}
