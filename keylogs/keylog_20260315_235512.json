@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773618912,
+    "data": "[03:54:17][Network Propagation Module - Google Chrome] l\n[03:54:17][Network Propagation Module - Google Chrome] e\n[03:54:18][Network Propagation Module - Google Chrome] a\n[03:54:18][Network Propagation Module - Google Chrome] d\n[03:54:18][Network Propagation Module - Google Chrome] e\n[03:54:18][Network Propagation Module - Google Chrome] r\n[03:54:19][Network Propagation Module - Google Chrome]  \n[03:54:23][Network Propagation Module - Google Chrome] \r\n",
+    "keystrokes": "leader  ",
+    "window": "Network Propagation Module - Google Chrome",
+    "sequence": 256
+  }
+}
