@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773618028,
+    "data": "[03:39:48][Search] v\n[03:39:48][Search] s\n[03:39:49][Search] \r\n[03:40:01][Search] v\n[03:40:02][Search] s\n[03:40:02][Search]  \n[03:40:03][Search] c\n[03:40:03][Search] o\n",
+    "keystrokes": "vs vs co",
+    "window": "Search",
+    "sequence": 246
+  }
+}
