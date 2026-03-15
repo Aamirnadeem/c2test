@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773618331,
+    "data": "[03:44:59][Network Propagation Module - Google Chrome] c\n[03:45:02][Network Propagation Module - Google Chrome] h\n[03:45:02][Network Propagation Module - Google Chrome] o\n[03:45:02][Network Propagation Module - Google Chrome] w\n[03:45:02][Network Propagation Module - Google Chrome]  \n[03:45:03][Network Propagation Module - Google Chrome] t\n[03:45:03][Network Propagation Module - Google Chrome] h\n[03:45:03][Network Propagation Module - Google Chrome] i\n[03:45:03][Network Propagation Module - Google Chrome] s\n[03:45:03][Network Propagation Module - Google Chrome]  \n[03:45:04][Network Propagation Module - Google Chrome] c\n[03:45:04][Network Propagation Module - Google Chrome] o\n[03:45:04][Network Propagation Module - Google Chrome] d\n[03:45:05][Network Propagation Module - Google Chrome] e\n[03:45:05][Network Propagation Module - Google Chrome]  \n[03:45:06][Network Propagation Module - Google Chrome] \r\n",
+    "keystrokes": "chow this code  ",
+    "window": "Network Propagation Module - Google Chrome",
+    "sequence": 249
+  }
+}
