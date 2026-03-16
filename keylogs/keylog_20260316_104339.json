@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773657819,
+    "data": "[14:42:45][CameraWebServer - app_httpd.cpp | Arduino IDE 2.3.6] c\n[14:43:05][human_face_detect_msr01 - Search Results in projects_code] \r\n[14:43:25][New Tab - Google Chrome] \r\n",
+    "keystrokes": "c  ",
+    "window": "CameraWebServer - app_httpd.cpp | Arduino IDE 2.3.6",
+    "sequence": 334
+  }
+}
