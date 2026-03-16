@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773687801,
+    "data": "[23:02:28][gaztecFusion] d\n[23:02:29][gaztecFusion] r\n[23:02:29][gaztecFusion] h\n[23:02:29][gaztecFusion] a\n[23:02:30][gaztecFusion] \r\n[23:02:49][Downloads] c\n[23:02:59][DRHA] \b\n[23:02:59][DRHA] \b\n[23:03:00][DRHA] \b\n[23:03:00][DRHA] \b\n[23:03:00][DRHA] \b\n[23:03:00][DRHA] \b\n[23:03:00][DRHA] \b\n[23:03:01][DRHA] \b\n[23:03:03][DRHA] \r\n[23:03:12][DRHA] c\n[23:03:12][DRHA] y\n[23:03:13][DRHA] b\n[23:03:13][DRHA] e\n[23:03:13][DRHA] r\n[23:03:14][DRHA] g\n[23:03:15][DRHA] l\n[23:03:15][DRHA] o\n[23:03:16][DRHA] b\n[23:03:16][DRHA] a\n[23:03:16][DRHA] l\n[23:03:16][DRHA] \r\n",
+    "keystrokes": "drha c⌫⌫⌫⌫⌫⌫⌫⌫ cyberglobal ",
+    "window": "gaztecFusion",
+    "sequence": 375
+  }
+}
