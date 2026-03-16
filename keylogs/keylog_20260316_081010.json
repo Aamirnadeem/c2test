@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773648610,
+    "data": "[12:09:57][mailbox_cam_v2 | Arduino IDE 2.3.6] c\n[12:10:09][Ahln_camera_Ctrl_app] \r\n",
+    "keystrokes": "c ",
+    "window": "mailbox_cam_v2 | Arduino IDE 2.3.6",
+    "sequence": 270
+  }
+}
