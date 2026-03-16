@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773655641,
+    "data": "[14:07:09][mjpeg_streamer | Arduino IDE 2.3.6] c\n[14:07:19][ESP32 mailbox motion detection system - Claude - Google Chrome] n\n[14:07:20][ESP32 mailbox motion detection system - Claude - Google Chrome] o\n[14:07:21][ESP32 mailbox motion detection system - Claude - Google Chrome] i\n[14:07:21][ESP32 mailbox motion detection system - Claude - Google Chrome] n\n",
+    "keystrokes": "cnoin",
+    "window": "mjpeg_streamer | Arduino IDE 2.3.6",
+    "sequence": 312
+  }
+}
