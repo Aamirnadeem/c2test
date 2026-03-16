@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773654299,
+    "data": "[13:44:41][Microsoft Visual Studio] m\n[13:44:42][Microsoft Visual Studio] p\n[13:44:43][Microsoft Visual Studio] e\n[13:44:43][Microsoft Visual Studio] g\n[13:44:45][Microsoft Visual Studio] -\n[13:44:45][Microsoft Visual Studio] s\n[13:44:45][Microsoft Visual Studio] t\n[13:44:46][Microsoft Visual Studio] r\n[13:44:46][Microsoft Visual Studio] e\n[13:44:46][Microsoft Visual Studio] a\n[13:44:46][Microsoft Visual Studio] m\n[13:44:47][Microsoft Visual Studio] e\n[13:44:47][Microsoft Visual Studio] r\n[13:44:47][Microsoft Visual Studio] -\n[13:44:51][Microsoft Visual Studio] f\n[13:44:52][Microsoft Visual Studio] r\n[13:44:52][Microsoft Visual Studio] o\n[13:44:52][Microsoft Visual Studio] m\n[13:44:53][Microsoft Visual Studio] -\n[13:44:54][Microsoft Visual Studio] e\n[13:44:54][Microsoft Visual Studio] s\n[13:44:54][Microsoft Visual Studio] p\n[13:44:55][Microsoft Visual Studio] 3\n[13:44:55][Microsoft Visual Studio] 2\n",
+    "keystrokes": "mpeg-streamer-from-esp32",
+    "window": "Microsoft Visual Studio",
+    "sequence": 296
+  }
+}
