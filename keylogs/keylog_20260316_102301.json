@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773656581,
+    "data": "[14:22:08][192.168.1.243/stream - Google Chrome] s\n[14:22:08][192.168.1.243/stream - Google Chrome] n\n[14:22:08][192.168.1.243/stream - Google Chrome] a\n[14:22:09][192.168.1.243/stream - Google Chrome] p\n[14:22:09][192.168.1.243/stream - Google Chrome] \r\n",
+    "keystrokes": "snap ",
+    "window": "192.168.1.243/stream - Google Chrome",
+    "sequence": 323
+  }
+}
