@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773656400,
+    "data": "[14:19:06][mjpeg_streamer | Arduino IDE 2.3.6] a\n",
+    "keystrokes": "a",
+    "window": "mjpeg_streamer | Arduino IDE 2.3.6",
+    "sequence": 322
+  }
+}
