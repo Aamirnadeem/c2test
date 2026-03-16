@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773664120,
+    "data": "[16:27:48][CameraWebServer - board_config.h | Arduino IDE 2.3.6] \b\n[16:27:49][CameraWebServer - board_config.h | Arduino IDE 2.3.6] /\n[16:27:49][CameraWebServer - board_config.h | Arduino IDE 2.3.6] /\n[16:27:54][CameraWebServer - board_config.h | Arduino IDE 2.3.6] \b\n[16:27:54][CameraWebServer - board_config.h | Arduino IDE 2.3.6] \b\n[16:28:05][CameraWebServer - board_config.h | Arduino IDE 2.3.6] s\n",
+    "keystrokes": "⌫//⌫⌫s",
+    "window": "CameraWebServer - board_config.h | Arduino IDE 2.3.6",
+    "sequence": 370
+  }
+}
