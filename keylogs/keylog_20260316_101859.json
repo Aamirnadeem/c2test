@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773656339,
+    "data": "[14:18:58][mjpeg_streamer (3).ino - my_keylogger (Workspace) - Visual Studio Code] a\n[14:18:59][mjpeg_streamer (3).ino - my_keylogger (Workspace) - Visual Studio Code] c\n",
+    "keystrokes": "ac",
+    "window": "mjpeg_streamer (3).ino - my_keylogger (Workspace) - Visual Studio Code",
+    "sequence": 321
+  }
+}
