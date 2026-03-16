@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773657940,
+    "data": "[14:44:44][human_face_detect_msr01 - Google Search - Google Chrome]  \n[14:44:45][human_face_detect_msr01 - Google Search - Google Chrome] \b\n[14:45:31][human_face_detect_msr01 hpp no such file or directory - Google Search - Google Chrome] c\n[14:45:36][Using 2 Cameras on RPi 4 - Google Chrome] \r\n",
+    "keystrokes": " ⌫c ",
+    "window": "human_face_detect_msr01 - Google Search - Google Chrome",
+    "sequence": 335
+  }
+}
