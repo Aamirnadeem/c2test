@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773658698,
+    "data": "[14:57:20][Using 2 Cameras on RPi 4 - Google Chrome] c\n[14:57:36][human_face_detect_msr01 - esp32] \r\n",
+    "keystrokes": "c ",
+    "window": "Using 2 Cameras on RPi 4 - Google Chrome",
+    "sequence": 344
+  }
+}
