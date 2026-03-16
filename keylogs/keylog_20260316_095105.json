@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773654665,
+    "data": "[13:51:03][Microsoft Visual Studio] m\n[13:51:04][Microsoft Visual Studio] p\n",
+    "keystrokes": "mp",
+    "window": "Microsoft Visual Studio",
+    "sequence": 300
+  }
+}
