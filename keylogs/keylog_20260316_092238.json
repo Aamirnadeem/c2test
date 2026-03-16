@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773652958,
+    "data": "[13:22:28][ESP32 mailbox motion detection system - Claude - Google Chrome] w\n[13:22:28][ESP32 mailbox motion detection system - Claude - Google Chrome] r\n[13:22:29][ESP32 mailbox motion detection system - Claude - Google Chrome] i\n[13:22:29][ESP32 mailbox motion detection system - Claude - Google Chrome] t\n[13:22:29][ESP32 mailbox motion detection system - Claude - Google Chrome] e\n[13:22:29][ESP32 mailbox motion detection system - Claude - Google Chrome]  \n[13:22:29][ESP32 mailbox motion detection system - Claude - Google Chrome] a\n[13:22:29][ESP32 mailbox motion detection system - Claude - Google Chrome]  \n[13:22:30][ESP32 mailbox motion detection system - Claude - Google Chrome] p\n[13:22:31][ESP32 mailbox motion detection system - Claude - Google Chrome] r\n[13:22:31][ESP32 mailbox motion detection system - Claude - Google Chrome] o\n[13:22:31][ESP32 mailbox motion detection system - Claude - Google Chrome] g\n[13:22:32][ESP32 mailbox motion detection system - Claude - Google Chrome] r\n[13:22:32][ESP32 mailbox motion detection system - Claude - Google Chrome] a\n[13:22:33][ESP32 mailbox motion detection system - Claude - Google Chrome] m\n[13:22:33][ESP32 mailbox motion detection system - Claude - Google Chrome]  \n",
+    "keystrokes": "write a program ",
+    "window": "ESP32 mailbox motion detection system - Claude - Google Chrome",
+    "sequence": 283
+  }
+}
