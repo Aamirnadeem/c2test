@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773658304,
+    "data": "[14:51:22][espressif/esp-who at release/v1.1.0 - Google Chrome] f\n[14:51:23][espressif/esp-who at release/v1.1.0 - Google Chrome] a\n[14:51:23][espressif/esp-who at release/v1.1.0 - Google Chrome] c\n[14:51:24][espressif/esp-who at release/v1.1.0 - Google Chrome] e\n[14:51:24][espressif/esp-who at release/v1.1.0 - Google Chrome] \r\n",
+    "keystrokes": "face ",
+    "window": "espressif/esp-who at release/v1.1.0 - Google Chrome",
+    "sequence": 339
+  }
+}
