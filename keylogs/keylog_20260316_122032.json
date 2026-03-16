@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773663632,
+    "data": "[16:19:41][Using 2 Cameras on RPi 4 - Google Chrome] c\n[16:19:48][CameraWebServer | Arduino IDE 2.3.6] f\n",
+    "keystrokes": "cf",
+    "window": "Using 2 Cameras on RPi 4 - Google Chrome",
+    "sequence": 369
+  }
+}
