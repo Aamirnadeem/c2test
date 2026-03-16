@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773653446,
+    "data": "[13:30:07][mjpeg_streamer | Arduino IDE 2.3.6] e\n[13:30:07][mjpeg_streamer | Arduino IDE 2.3.6] s\n[13:30:08][mjpeg_streamer | Arduino IDE 2.3.6] p\n[13:30:09][mjpeg_streamer | Arduino IDE 2.3.6] 3\n[13:30:10][mjpeg_streamer | Arduino IDE 2.3.6] 2\n[13:30:10][mjpeg_streamer | Arduino IDE 2.3.6] s\n[13:30:12][mjpeg_streamer | Arduino IDE 2.3.6] 3\n[13:30:13][mjpeg_streamer | Arduino IDE 2.3.6]  \n[13:30:13][mjpeg_streamer | Arduino IDE 2.3.6] d\n[13:30:14][mjpeg_streamer | Arduino IDE 2.3.6] e\n",
+    "keystrokes": "esp32s3 de",
+    "window": "mjpeg_streamer | Arduino IDE 2.3.6",
+    "sequence": 292
+  }
+}
