@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773648489,
+    "data": "[12:07:19][mailbox_cam_v2 | Arduino IDE 2.3.6] f\n[12:07:20][mailbox_cam_v2 | Arduino IDE 2.3.6] p\n[12:07:21][mailbox_cam_v2 | Arduino IDE 2.3.6] a\n[12:07:21][mailbox_cam_v2 | Arduino IDE 2.3.6] s\n[12:07:21][mailbox_cam_v2 | Arduino IDE 2.3.6] s\n",
+    "keystrokes": "fpass",
+    "window": "mailbox_cam_v2 | Arduino IDE 2.3.6",
+    "sequence": 269
+  }
+}
