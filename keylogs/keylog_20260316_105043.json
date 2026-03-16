@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773658243,
+    "data": "[14:49:44][espressif/esp-who: Face detection and recognition framework - Google Chrome] c\n[14:49:45][espressif/esp-who: Face detection and recognition framework - Google Chrome] e\n",
+    "keystrokes": "ce",
+    "window": "espressif/esp-who: Face detection and recognition framework - Google Chrome",
+    "sequence": 338
+  }
+}
