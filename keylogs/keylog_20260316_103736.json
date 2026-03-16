@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773657456,
+    "data": "[14:37:00][MqttAppBF - Microsoft Visual Studio] 9\n",
+    "keystrokes": "9",
+    "window": "MqttAppBF - Microsoft Visual Studio",
+    "sequence": 331
+  }
+}
