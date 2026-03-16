@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773655916,
+    "data": "[14:11:36][mjpeg_streamer (2).ino - my_keylogger (Workspace) - Visual Studio Code] a\n[14:11:36][mjpeg_streamer (2).ino - my_keylogger (Workspace) - Visual Studio Code] c\n[14:11:43][mjpeg_streamer | Arduino IDE 2.3.6] a\n",
+    "keystrokes": "aca",
+    "window": "mjpeg_streamer (2).ino - my_keylogger (Workspace) - Visual Studio Code",
+    "sequence": 318
+  }
+}
