@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773663206,
+    "data": "[16:12:26][Using 2 Cameras on RPi 4 - Google Chrome] \r\n[16:12:32][CameraWebServer | Arduino IDE 2.3.6] a\n[16:12:32][CameraWebServer | Arduino IDE 2.3.6] c\n[16:12:36][Using 2 Cameras on RPi 4 - Google Chrome] t\n[16:12:36][Using 2 Cameras on RPi 4 - Google Chrome] h\n[16:12:36][Using 2 Cameras on RPi 4 - Google Chrome] i\n[16:12:36][Using 2 Cameras on RPi 4 - Google Chrome] s\n[16:12:36][Using 2 Cameras on RPi 4 - Google Chrome]  \n[16:12:38][Using 2 Cameras on RPi 4 - Google Chrome] i\n[16:12:38][Using 2 Cameras on RPi 4 - Google Chrome] s\n[16:12:38][Using 2 Cameras on RPi 4 - Google Chrome]  \n[16:12:39][Using 2 Cameras on RPi 4 - Google Chrome] c\n[16:12:39][Using 2 Cameras on RPi 4 - Google Chrome] o\n[16:12:39][Using 2 Cameras on RPi 4 - Google Chrome] d\n[16:12:39][Using 2 Cameras on RPi 4 - Google Chrome] e\n[16:12:39][Using 2 Cameras on RPi 4 - Google Chrome]  \n[16:12:40][Using 2 Cameras on RPi 4 - Google Chrome] \r\n[16:12:42][Using 2 Cameras on RPi 4 - Google Chrome] \r\n",
+    "keystrokes": " acthis is code   ",
+    "window": "Using 2 Cameras on RPi 4 - Google Chrome",
+    "sequence": 367
+  }
+}
