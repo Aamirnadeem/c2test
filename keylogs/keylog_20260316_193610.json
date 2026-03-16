@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773689770,
+    "data": "[23:35:20][WhatsApp] f\n[23:35:21][WhatsApp] m\n[23:35:23][WhatsApp] o\n[23:35:24][WhatsApp] a\n[23:35:33][WhatsApp] a\n[23:35:37][WhatsApp]  \n[23:35:45][WhatsApp]  \n[23:35:48][WhatsApp] \b\n[23:35:48][WhatsApp]  \n[23:35:49][WhatsApp] c\n[23:35:49][WhatsApp] v\n[23:35:50][WhatsApp]  \n[23:36:01][WhatsApp] \r\n",
+    "keystrokes": "fmoaa  ⌫ cv  ",
+    "window": "WhatsApp",
+    "sequence": 409
+  }
+}
