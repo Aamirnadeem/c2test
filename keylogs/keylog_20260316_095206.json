@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773654726,
+    "data": "[13:51:07][Microsoft Visual Studio] v\n[13:51:07][Microsoft Visual Studio] i\n[13:51:07][Microsoft Visual Studio] e\n[13:51:08][Microsoft Visual Studio] w\n[13:51:08][Microsoft Visual Studio] e\n[13:51:08][Microsoft Visual Studio] r\n[13:51:10][Microsoft Visual Studio] -\n[13:51:12][Microsoft Visual Studio] p\n[13:51:12][Microsoft Visual Studio] r\n[13:51:13][Microsoft Visual Studio] o\n[13:51:13][Microsoft Visual Studio] j\n[13:51:37][ESP32 mailbox motion detection system - Claude - Google Chrome] c\n[13:51:49][MqttAppBF - Microsoft Visual Studio] \r\n",
+    "keystrokes": "viewer-projc ",
+    "window": "Microsoft Visual Studio",
+    "sequence": 301
+  }
+}
