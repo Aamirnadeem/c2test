@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773657396,
+    "data": "[14:35:46][mjpeg_streamer | Arduino IDE 2.3.6] a\n[14:36:18][C:\\Users\\abc\\Downloads\\MjpegViewer.cs - Notepad++] a\n[14:36:19][C:\\Users\\abc\\Downloads\\MjpegViewer.cs - Notepad++] c\n[14:36:25][MqttAppBF - Microsoft Visual Studio] a\n[14:36:33][MqttAppBF - Microsoft Visual Studio] s\n",
+    "keystrokes": "aacas",
+    "window": "mjpeg_streamer | Arduino IDE 2.3.6",
+    "sequence": 330
+  }
+}
