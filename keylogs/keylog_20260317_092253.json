@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773739373,
+    "data": "[13:22:08][Claude - Google Chrome] \r\n[13:22:21][New Tab - Google Chrome] c\n[13:22:21][New Tab - Google Chrome] l\n[13:22:22][New Tab - Google Chrome] u\n[13:22:22][New Tab - Google Chrome] s\n[13:22:22][New Tab - Google Chrome] \b\n[13:22:23][New Tab - Google Chrome] d\n[13:22:23][New Tab - Google Chrome] e\n[13:22:24][New Tab - Google Chrome] .\n[13:22:25][New Tab - Google Chrome] m\n[13:22:25][New Tab - Google Chrome] d\n[13:22:26][New Tab - Google Chrome]  \n[13:22:27][New Tab - Google Chrome] f\n[13:22:27][New Tab - Google Chrome] i\n[13:22:27][New Tab - Google Chrome] l\n[13:22:27][New Tab - Google Chrome] e\n[13:22:27][New Tab - Google Chrome]  \n[13:22:28][New Tab - Google Chrome] \r\n",
+    "keystrokes": " clus⌫de.md file  ",
+    "window": "Claude - Google Chrome",
+    "sequence": 456
+  }
+}
