@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773736831,
+    "data": "[12:39:43][Visual Studio Code] c\n[12:39:45][Visual Studio Code] l\n[12:39:45][Visual Studio Code] a\n[12:39:46][Visual Studio Code] u\n[12:39:48][Visual Studio Code] d\n[12:39:48][Visual Studio Code] e\n",
+    "keystrokes": "claude",
+    "window": "Visual Studio Code",
+    "sequence": 424
+  }
+}
