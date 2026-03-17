@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773737074,
+    "data": "[12:43:48][frame_diff_hash_algo_8jul25] c\n[12:43:51][Search] v\n[12:43:51][Search] s\n[12:44:30][New Tab - Google Chrome] h\n[12:44:30][New Tab - Google Chrome] o\n[12:44:30][New Tab - Google Chrome] w\n[12:44:30][New Tab - Google Chrome]  \n[12:44:31][New Tab - Google Chrome] t\n[12:44:31][New Tab - Google Chrome] o\n[12:44:31][New Tab - Google Chrome]  \n[12:44:31][New Tab - Google Chrome] i\n[12:44:31][New Tab - Google Chrome] n\n[12:44:32][New Tab - Google Chrome] v\n[12:44:32][New Tab - Google Chrome] o\n[12:44:32][New Tab - Google Chrome] k\n[12:44:33][New Tab - Google Chrome] e\n[12:44:33][New Tab - Google Chrome]  \n[12:44:33][New Tab - Google Chrome] c\n[12:44:33][New Tab - Google Chrome] l\n[12:44:33][New Tab - Google Chrome] a\n[12:44:34][New Tab - Google Chrome] u\n[12:44:34][New Tab - Google Chrome] s\n[12:44:34][New Tab - Google Chrome] e\n",
+    "keystrokes": "cvshow to invoke clause",
+    "window": "frame_diff_hash_algo_8jul25",
+    "sequence": 427
+  }
+}
