@@ -1,0 +1,10 @@
+{
+  "KeylogData": {
+    "implant_id": "implant_01",
+    "timestamp": 1773824636,
+    "data": "[13:03:11][MqttAppBF - Microsoft Visual Studio] f\n[13:03:13][MqttAppBF - Microsoft Visual Studio] r\n[13:03:13][MqttAppBF - Microsoft Visual Studio] i\n[13:03:13][MqttAppBF - Microsoft Visual Studio] c\n[13:03:13][MqttAppBF - Microsoft Visual Studio] h\n[13:03:15][MqttAppBF - Microsoft Visual Studio] t\n[13:03:16][MqttAppBF - Microsoft Visual Studio] e\n[13:03:17][MqttAppBF - Microsoft Visual Studio] x\n[13:03:18][MqttAppBF - Microsoft Visual Studio] t\n[13:03:18][MqttAppBF - Microsoft Visual Studio] b\n[13:03:19][MqttAppBF - Microsoft Visual Studio] o\n[13:03:19][MqttAppBF - Microsoft Visual Studio] x\n[13:03:20][MqttAppBF - Microsoft Visual Studio] 3\n[13:03:25][MqttAppBF - Microsoft Visual Studio] c\n[13:03:29][MqttAppBF - Microsoft Visual Studio] \b\n[13:03:30][MqttAppBF - Microsoft Visual Studio] 3\n",
+    "keystrokes": "frichtextbox3c⌫3",
+    "window": "MqttAppBF - Microsoft Visual Studio",
+    "sequence": 504
+  }
+}
